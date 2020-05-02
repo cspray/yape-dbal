@@ -1,11 +1,11 @@
 {
   "name": "cspray/yape-dbal",
   "require": {
-    "cspray/yape": "^2.1",
+    "cspray/yape": "dev-master",
     "doctrine/dbal": "^2.9"
   },
   "require-dev": {
-    "phpunit/phpunit": "^8"
+    "phpunit/phpunit": "^9"
   },
   "autoload": {
     "psr-4": {
