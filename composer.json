@@ -14,7 +14,7 @@
   ],
   "require": {
     "php": "^7.2",
-    "cspray/yape": "dev-master",
+    "cspray/yape": "^3.0",
     "doctrine/dbal": "^2.9"
   },
   "require-dev": {

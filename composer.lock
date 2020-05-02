@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1bd2bcf58ea5f48443a380485ea7eb47",
+    "content-hash": "fcdcba9890757e28d246b07931484c5c",
     "packages": [
         {
             "name": "cspray/yape",
-            "version": "dev-master",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cspray/yape.git",
-                "reference": "96f0f1c73f70d6bb5a1836ec307c21b3682b746d"
+                "reference": "a94ebfeeffdb8ec28dd24847029828578aa91628"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cspray/yape/zipball/96f0f1c73f70d6bb5a1836ec307c21b3682b746d",
-                "reference": "96f0f1c73f70d6bb5a1836ec307c21b3682b746d",
+                "url": "https://api.github.com/repos/cspray/yape/zipball/a94ebfeeffdb8ec28dd24847029828578aa91628",
+                "reference": "a94ebfeeffdb8ec28dd24847029828578aa91628",
                 "shasum": ""
             },
             "require": {
@@ -53,7 +53,7 @@
             "keywords": [
                 "enum"
             ],
-            "time": "2020-05-02T14:11:40+00:00"
+            "time": "2020-05-02T15:21:44+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -2000,9 +2000,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "cspray/yape": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
