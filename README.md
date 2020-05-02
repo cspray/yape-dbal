@@ -6,8 +6,6 @@ An extension of [cspray/yape] that allows for the storing of `Enum` instances in
 ## Requirements
 
 - PHP 7.2+
-- [cspray/yape] 3.0+
-- Doctrine DBAL 2.9+
 
 ## Installation
 
