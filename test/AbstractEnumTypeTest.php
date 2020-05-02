@@ -2,7 +2,6 @@
 
 namespace Cspray\Yape\Dbal;
 
-use Cspray\Yape\Dbal\AbstractEnumType;
 use Doctrine\DBAL\DBALException;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use Doctrine\DBAL\Types\ConversionException;

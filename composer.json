@@ -1,6 +1,19 @@
 {
   "name": "cspray/yape-dbal",
+  "description": "An extension of cspray/yape that allows storing generated Enums in your Doctrine Entities",
+  "keywords": ["enum", "doctrine", "dbal"],
+  "homepage": "https://cspray.io/yape",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Charles Sprayberry",
+      "email": "yape@cspray.io",
+      "homepage": "http://cspray.io",
+      "role": "Developer"
+    }
+  ],
   "require": {
+    "php": "^7.2",
     "cspray/yape": "dev-master",
     "doctrine/dbal": "^2.9"
   },

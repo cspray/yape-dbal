@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a8531b8d4e2bde01fb0688a8c34a979c",
+    "content-hash": "1bd2bcf58ea5f48443a380485ea7eb47",
     "packages": [
         {
             "name": "cspray/yape",
@@ -2005,7 +2005,9 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "^7.2"
+    },
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
 }
